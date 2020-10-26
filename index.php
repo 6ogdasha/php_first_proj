@@ -38,6 +38,7 @@
 				<a href="#katalog" class="mx-auto text-light">Каталог</a>
 				
 				<a href="admin.php" class="mx-auto text-light">Aдминка</a>
+				<a href="delete.php" class="mx-auto text-light">Удалить товар</a>
 			</div>
 		</div>
 		
